@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Author: Gary Hooks
-# Web: http://www.garyhooks.co.uk
+# Web: http://www.twintel.co.uk
 # Email: garyhooks@gmail.com
 # Publish Date: 14th January 2016
 # Version: 1.0
